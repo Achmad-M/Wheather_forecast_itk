@@ -618,30 +618,6 @@ image_15 = canvas.create_image(
     image=image_image_15
 )
 
-"""
-    if weatherIcon == "01d" and "01n":
-    
-    elif weatherIcon == "02d" and "02n":
-
-    elif weatherIcon == "03d" and "03n":
-
-    elif weatherIcon == "04d" and "04n":
-![](../../Desktop/cerah_banget.png)![](../../Desktop/berawan.png)![](../../Desktop/cerah_berawan.png)![](../../Desktop/mendung.png)![](../../Desktop/berangin.png)![](../../Desktop/bepetir.png)![](../../Desktop/salju.png)
-    elif weatherIcon == "09d" and "09n":
-
-    elif weatherIcon == "10d" and "10n":
-
-    elif weatherIcon == "11d" and "11n":
-
-    elif weatherIcon == "13d" and "13n":
-
-    elif weatherIcon == "50d" and "50n":
-
-    else:
-
-
-"""
-
 image_image_16 = PhotoImage(
     file=relative_to_assets("image_16.png"))
 image_16 = canvas.create_image(
@@ -657,8 +633,6 @@ image_17 = canvas.create_image(
     114.11202239990234,
     image=image_image_17
 )
-
-
 
 
 canvas.create_text(
