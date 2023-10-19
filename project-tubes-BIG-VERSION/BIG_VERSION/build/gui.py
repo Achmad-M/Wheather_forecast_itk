@@ -1668,7 +1668,7 @@ canvas.create_text(
     anchor="nw",
     text="WEATHER FORECAST",
     fill="#FF6700",
-    font=("Open Sans Extrabold", 42 * -1)
+    font=("Open Sans Bold", 42 * -1)
 )
 
 
